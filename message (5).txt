@@ -1,0 +1,887 @@
+89baf0f4-4648-69fc-f0af-2fbc69b97b80:Xenohunter Odin
+289d7473-472b-68da-9019-da9594a8a127:Xenohunter Odin Level 2
+549b06bb-4704-25ce-19d5-c9b70b10de19:Glitchpop Odin
+3e7d08f9-4067-1abe-8159-87b8e31fc463:Glitchpop Odin Level 2
+ca91d540-4d2d-4946-70bd-97aae8117306:Glitchpop Odin Level 3
+8c95559d-44fb-544d-00d7-8192ed38b17a:Glitchpop Odin Level 4
+5f86ac54-46b0-806f-f200-dd89fbcd7cb9:Nitro Odin
+49292f21-4f5e-0a1a-3671-54b7ca8fe65a:dot EXE Odin
+ef564ec3-497c-3038-543e-eb94bbe46437:Prime//2.0 Odin
+ab04093d-489f-27f3-9e1b-1589db2185c8:Prime//2.0 Odin Level 2
+7ca4b0b7-4ba5-9fc9-218c-0b8c865edaad:Prime//2.0 Odin Level 3
+4f3eea45-4e3e-026f-66c9-658906a52d0b:Prime//2.0 Odin Level 4
+7e323e82-44b6-1711-2028-10af32c632d5:Prism III Odin
+c59442a5-4b74-792c-d996-71a5fb340625:Smite Odin
+dd2acfca-4366-7ac0-c13e-1eb2f1948273:Coalition: Cobra Odin
+1bfea917-4262-37ba-3a76-04b937f2d0be:Sensation Odin
+162beb92-4ab7-4383-da51-4b94ba90bd5d:Lightwave Odin
+15a5516d-412f-2db0-6bb3-3cbe40a2355f:Schema Odin
+e1a05cb4-4ac5-b15a-e86e-bab0f7e093ad:Lycan's Bane Odin
+d91fb318-4e40-b4c9-8c0b-bb9da28bac55:Odin
+657b3476-4919-7b4b-be54-aeaedad999e6:Aerosol Odin
+5123ed96-48de-aeab-eaea-2b8ea689f5a2:BlastX Odin
+35e89d1a-477c-3d54-82aa-3599a832fe0b:BlastX Odin Level 2
+31201e02-4873-a6db-1ce6-6e93a620370c:BlastX Odin Level 3
+7637fff1-4275-590a-6181-be95eae8786a:BlastX Odin Level 4
+1203a0b8-4044-a7de-1751-87b30b9574e8:VALORANT GO! Vol. 2 Ares
+a2045403-40f7-2926-f955-028b6867c79a:Aristocrat Ares
+433e7f5e-4aaa-940e-4003-99bc0df92c17:Endeavour Ares
+7d3c0ac4-42ce-7111-2c86-43be3d2e86a7:Nebula Ares
+8e0c9fac-4d40-0a04-cf4a-4bb553952164:Doodle Buds Ares
+700f9bc6-448d-1159-64ad-ea98035581d1:Doodle Buds Ares Level 2
+642ee168-4f9e-1f5f-be72-01b3a41ac086:Singularity Ares
+485df72f-423e-4e53-51a2-68a3c2a929db:Singularity Ares Level 2
+b080be2c-457a-61a2-d3b2-429b32e62345:Singularity Ares Level 3
+6b12682c-4813-d34f-322d-67b0211e1e6d:Singularity Ares Level 4
+bad7ae62-4f6a-8974-ab73-7ba6405ca898:Rush Ares
+65bb772a-41f2-8b25-a1af-75a79d596203:Hivemind Ares
+e5b8e4ac-4092-6968-704c-df8acaf0ac1d:Spitfire Ares
+6df8b470-4248-e29d-2879-bd840ed224c1:Infantry Ares
+6916019f-405f-b5f1-d2c6-2d8e4c27cf17:Goldwing Ares
+81694ace-47b3-3d95-9b88-59983d351471:Outpost Ares
+29be6d9e-48b2-1229-4f7d-4da1c20deda9:Prism Ares
+0dc1eefc-4b8f-e4c5-0c71-d680abcf73e7:Nunca Olvidados Ares
+46048768-4499-72f7-820b-7cbe1d4ad844:Celestial Ares
+857ad950-486a-d199-7bf2-7092aaf88ae2:Magepunk Ares
+8be22b38-4655-5c1c-4235-2f96a85ddf4c:Magepunk Ares Level 2
+0d2861a4-495b-4f66-c416-f78605ecc9aa:Magepunk Ares Level 3
+ddc01ea7-4ecc-617e-da04-2491064e592b:Magepunk Ares Level 4
+792656ff-445c-fa7f-301a-8490f638b168:Minima Ares
+9b61f5ca-4aa2-8557-37b2-a1b05f30c678:POLYfrog Ares
+75e66837-47b4-0aec-cf8e-8b96f3af7d6b:Divine Swine Ares
+3ee60a8a-4736-5a6d-3713-00a05402481d:Jigsaw Ares
+9fbe39c6-42d7-b1db-9048-f0951ce2ff94:Sakura Ares
+f8295d0b-4378-f4ff-342d-178f6d86ac88:Snowfall Ares
+0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110:Sentinels of Light Ares
+ba3ee5c5-478f-6a30-aa0c-85942ba2a7c0:Sentinels of Light Ares Level 2
+a92fc69d-4be1-74f5-938b-e0b27b2bb929:Sentinels of Light Ares Level 3
+0725b4f4-44eb-5297-9ea2-18a333a95087:Sentinels of Light Ares Level 4
+2317e839-44cd-2301-80a8-c4ac63c626ac:Titanmail Ares
+0f5f60f4-4c94-e4b2-ceab-e2b4e8b41784:Ares
+4e435234-49a2-1444-4640-908692c855b8:RGX 11z Pro Vandal
+524ebe7d-4a3b-cf50-ed55-1092d82cebf9:RGX 11z Pro Vandal Level 2
+1561075c-4fe9-882e-39fb-eca6eeab924c:RGX 11z Pro Vandal Level 3
+f435e745-462b-c4bd-7ddf-a99ea33a0f16:RGX 11z Pro Vandal Level 4
+796cf1d2-4893-fee7-3401-beb277c726c8:RGX 11z Pro Vandal Level 5
+23de6607-4647-bccd-8863-3da2720e4152:VALORANT GO! Vol. 2 Vandal
+49cea67c-4552-13c2-6b4b-8ba07761504e:Neptune Vandal
+24e39414-4a8e-e800-1242-08bd94b5e3c4:Neptune Vandal Level 2
+7b2826b6-4771-7529-b656-b89b9c1d86b6:Neptune Vandal Level 3
+9ff1a0e6-4f74-0e6d-9117-de8683db4eb5:Aristocrat Vandal
+c4422d16-4cb1-75d5-fd18-dda0bb05f46b:Gaia's Vengeance Vandal
+0832fe9d-43bf-38bf-df60-9dac91449997:Gaia's Vengeance Vandal Level 2
+d5c3e32c-4d18-7608-2bab-21851f4036e3:Gaia's Vengeance Vandal Level 3
+4c4b080d-4b05-65e8-a9c1-6d90aafa7347:Gaia's Vengeance Vandal Level 4
+44ffb8d4-4f48-9456-0463-a6bc1e6ecede:Endeavour Vandal
+9f51da57-4623-415a-6313-f49588297d0e:Champions 2021 Vandal
+f96ed262-4280-2363-2542-38b5620bfbb5:Champions 2021 Vandal Level 2
+78c44470-4dd0-eb4c-72f6-86961be3d856:Champions 2021 Vandal Level 3
+4c8a49bd-4118-9523-6612-4a924651b4a9:Champions 2021 Vandal Level 4 - Aura is active only when player has the most kills in the game
+1969e379-40ae-b28a-6fb3-819873a24fb9:Origin Vandal
+2ee1c6e6-4213-723f-1fd8-c9a76c00ff72:Origin Vandal Level 2
+43e8a873-4ddf-1c73-6d91-3786b9fb3145:Origin Vandal Level 3
+66c8a651-4a8c-aa44-1af0-088118b9a975:Origin Vandal Level 4
+7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3:Glitchpop Vandal
+c01d91bb-4203-4f78-0b6a-1aae9abb458b:Glitchpop Vandal Level 2
+084e16e5-4340-618f-09ba-128331f9b8cc:Glitchpop Vandal Level 3
+7a322cff-4acb-15c4-5006-049655bfa22f:Glitchpop Vandal Level 4
+1010fb40-4344-6ec8-2a8a-33bf076339b6:Prelude to Chaos Vandal
+273db50c-41fd-99eb-89fa-d0969ef739bb:Prelude to Chaos Vandal Level 2
+0b2b3fb5-415d-ed9e-d865-5aa90a28894e:Prelude to Chaos Vandal Level 3
+a4021006-49be-e1f3-b2e1-cc8635694d0c:Prelude to Chaos Vandal Level 4
+b3d3ff38-4202-20d8-2f41-c783477e5636:Elderflame Vandal
+d86e4684-47d3-9a2f-9bd4-01ae3fd3e183:Elderflame Vandal Level 2
+77569f90-4e7f-7d91-bd18-2aa12bdba709:Elderflame Vandal Level 3
+4fb025db-471f-3891-6e30-b98866abb2f9:Elderflame Vandal Level 4
+becdafdf-4d4b-0a8c-75d1-b8908db15ce5:Sarmad Vandal
+f910a11a-40ab-d799-3782-c58674f7ada0:Nitro Vandal
+7383ca56-490a-f9f5-f126-5ea0dcd4a242:Hivemind Vandal
+851b390a-4852-66bd-8b72-4f96f0919710:Forsaken Vandal
+bf44b39a-4f54-a919-6ed8-b5b016cf16f2:Forsaken Vandal Level 2
+e578e7ca-4066-331e-fd72-80855afa9f1f:Forsaken Vandal Level 3
+9ed2bd1c-46b9-fdf5-b445-5f91d82fc441:Forsaken Vandal Level 4
+258f4b78-4286-a93b-309a-0bada49c06e1:Team Ace Vandal
+3d1bc8e8-4759-148c-7775-5a96e8c975fd:Ruin Vandal
+c9ee9a00-453d-a358-8501-3ebb7ca3765e:dot EXE Vandal
+e9953add-4069-d71b-447a-a8ad94fe6526:.SYS Vandal
+26eee656-4f8d-bdd3-e4fe-ae9e808a3408:Horizon Vandal
+c9678d8c-4327-f397-b0ec-dca3c3d6fb15:Prime Vandal
+c6f9c7ef-4a35-fa14-c9ed-bd80e37be826:Prime Vandal Level 2
+fc332008-475f-5555-0155-4cb3bce714ff:Prime Vandal Level 3
+22821a32-4e04-ad4a-1893-95904c08b264:Prime Vandal Level 4
+fbfc273b-4c12-961a-a4fb-978b43be81a9:Avalanche Vandal
+d0c07243-4afa-decc-7c5b-4b994f1321ee:Prism II Vandal
+5c21371e-46e1-a0b2-2e49-728281cfaaed:K/TAC Vandal
+a2a15c4e-4102-41bd-102d-378dec6cee7f:Nunca Olvidados Vandal
+1878bbc9-409e-66b4-346b-c3997a54df57:Luxe Vandal
+9d501eec-4084-5d44-32ef-6e8ed5b0ed49:Silvanus Vandal
+f4bfff96-487a-cf9e-08cc-d590d962c4e6:Sensation Vandal
+3aeef60b-48fb-02aa-31b1-068aeb351213:Sakura Vandal
+76c30002-4884-8193-dcf6-93a00b10bc15:Schema Vandal
+f158e7d9-4404-1e88-747e-bf98da9a744b:Lycan's Bane Vandal
+968efd06-4549-65f4-9fb1-3f90d612e428:Sentinels of Light Vandal
+bfa45341-4338-5ebd-3bec-8d95f6c6feb4:Sentinels of Light Vandal Level 2
+d8b58c68-45e6-65f4-01bd-6baaeeef667f:Sentinels of Light Vandal Level 3
+e0dfb9d6-42a4-1463-cc80-00ac9df10c9e:Sentinels of Light Vandal Level 4
+ba42fe63-457a-78ce-4499-47950a698129:Reaver Vandal
+6f9ba692-4618-d0e6-3099-42b4dc5fce89:Reaver Vandal Level 2
+98597b95-451c-70cf-46fb-31b4c5a54394:Reaver Vandal Level 3
+8c282914-446a-3e99-095a-cd97df201c8b:Reaver Vandal Level 4
+1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2:Tethered Realms Vandal
+8017a235-48d8-9f2a-42c2-7a865157c587:Cavalier Vandal
+17f044eb-4016-5f86-f4f7-1095cc292a15:Titanmail Vandal
+1ab72e66-4da3-33a0-164f-908113e075a4:Vandal
+bd1b4801-4bf2-1444-82ce-3ca3636159d4:Depths Vandal
+94cf6dd4-42c5-f70e-1652-dca05fa42ad6:Ego Vandal
+a6d41f01-4b8b-444d-b9da-3eaaf3d7e262:Wasteland Vandal
+496b0096-4000-c1fc-102d-70a8b769d0d1:Winterwunderland Vandal
+3bf9d39f-46b4-ba23-e079-488d799b9416:Aristocrat Bulldog
+38dbcca0-493d-70eb-ef89-d281f33efc94:Endeavour Bulldog
+43854c54-4263-571c-9be6-52b6d50d3190:Spectrum Bulldog
+d022056d-4739-4cf3-4c18-c893948303a1:Spectrum Bulldog Level 2
+674ca080-4624-3550-d1f3-dfac17d40918:Spectrum Bulldog Level 3
+c6ad47ec-4078-2902-fdfe-2eae352bf4f4:Spectrum Bulldog Level 4
+842dbe37-4bc7-95b3-26d7-a0af65615d5e:Striker Bulldog
+89b68205-4fe5-2434-a731-e5a734bd4a7a:Undercity Bulldog
+4a5ad8cd-4684-a47c-b393-ce9c6760d21a:Glitchpop Bulldog
+44c5b5cc-4931-b4af-1a4a-17ab9ec2b89e:Glitchpop Bulldog Level 2
+49ea5740-4731-01c5-a68e-cba6b86b1049:Glitchpop Bulldog Level 3
+d83d2283-4c50-ee72-3a8b-51b6a05aed15:Glitchpop Bulldog Level 4
+8e032580-414f-7ab4-7efb-f6ac7d2bc2f1:Rush Bulldog
+7561a8e0-4cc4-8644-a88b-48a88790b36f:Velocity Bulldog
+41a683ee-4d8d-51cb-db4f-06bfb2371d86:Shimmer Bulldog
+079f6046-49c3-72e3-bcfa-a5b6d01910dc:Horizon Bulldog
+ddf3064f-4c05-d0fb-2f62-f8be055cb934:K/TAC Bulldog
+49fc11b3-40a9-29ff-a701-63a6f59e2a0f:Couture Bulldog
+47815b56-43d7-1312-8b3e-5da445f71e31:Nunca Olvidados Bulldog
+c5711665-4126-fa98-510f-5f8c82f52911:Genesis Bulldog
+9db51105-45a7-d05e-6d7d-08962c65c386:Hue Shift Bulldog
+0fce64bd-42c9-1755-8c67-e3a8cdd49de7:POLYfox Bulldog
+544ddf0f-42c6-e410-c9db-fc8b3b2c84d4:Protocol 781-A Bulldog
+b88b45d6-466b-0285-5e88-45b38b6452c0:Protocol 781-A Bulldog Level 2
+d02c80a9-420a-e45e-d20a-519d7764b0ae:Protocol 781-A Bulldog Level 3
+78665dc8-4a75-76f6-a9e5-97819158eed8:Protocol 781-A Bulldog Level 4
+282305ae-4707-c58e-bf3a-3cb333c5664d:Protocol 781-A Bulldog Level 5 - Localized voice-over may differ in your region
+5fc3c5e8-470e-7683-b594-6580d5e3d624:Infinity Bulldog
+c8e6ac70-48ef-9d96-d964-a88e8890b885:Bulldog
+84f8d0f4-4442-5892-6a20-8f83e65a5e96:Convex Bulldog
+6f86d77a-43c6-17b5-312f-87bf159076d9:Depths Bulldog
+0edd85d1-4589-385a-e5e2-84a55ae9860d:Varnish Bulldog
+eb32efb4-4db8-2740-e0ad-659a0cb8d174:Task Force 809 Phantom
+49a986d0-4a07-b756-331e-babe1b2839d9:RGX 11z Pro Phantom
+4194e0af-4f61-f3e0-cf96-258f93cc82f4:RGX 11z Pro Phantom Level 2
+745fd101-4ba4-a3f7-eeb1-2b9a201721aa:RGX 11z Pro Phantom Level 3
+9d47f8ab-42fa-167c-7704-3f9f2103ddc6:RGX 11z Pro Phantom Level 4
+c97c97b2-4f3b-fb34-32a4-548d32863042:RGX 11z Pro Phantom Level 5
+c0879eb2-4e41-d7bd-80f7-dd8cb13a1e20:Xenohunter Phantom
+5b63d322-4fb7-ef6d-c50e-fe89ecc520a8:Xenohunter Phantom Level 2
+30423af3-42f9-d0ba-dee5-0b93704b39c8:VALORANT GO! Vol. 1 Phantom
+82db01d1-4192-167b-9f53-78ba374c39ac:Spectrum Phantom
+8021e6d9-4916-32a9-e2cd-ff9c947a96c5:Spectrum Phantom Level 2
+831939b1-42e6-6ad3-708b-b58ff2ea64fb:Spectrum Phantom Level 3
+2a744a2b-4dab-71a6-0e2e-7f84d4cf8365:Spectrum Phantom Level 4
+52c3bbf6-491f-fef1-faa9-e19df06a687c:Radiant Crisis 001 Phantom
+e9084ae2-462e-b567-1439-4797bb26d5f4:Radiant Crisis 001 Phantom Level 2
+84764cd7-41fd-c3e0-523f-d88d101c40cc:Radiant Crisis 001 Phantom Level 3
+40308b30-4689-9713-52fb-6f8a3534213f:Nebula Phantom
+bbc68d13-42b8-6f2c-d5b2-e79c291677c5:Undercity Phantom
+9f6e4612-433b-aea9-1683-3db7aee90848:Glitchpop Phantom
+07e8bbcb-488e-b038-630f-c3a7c4f4763f:Glitchpop Phantom Level 2
+7f54b1ac-49b5-48ec-9926-8a966a0233a5:Glitchpop Phantom Level 3
+dee8b295-4a06-15fb-e952-acb6298d5929:Glitchpop Phantom Level 4
+f9d54c11-4c6f-575b-5bed-3cb693f6f2ba:Doodle Buds Phantom
+e5b46108-4d0a-c614-a845-fea7111beda7:Doodle Buds Phantom Level 2
+0ff7ff25-42cf-769a-4e6d-bd833121302d:Singularity Phantom
+48e976cc-4be8-87c6-2848-dd87bbc0acf8:Singularity Phantom Level 2
+5791fe6e-4c59-b6ef-a7d4-05b0d7c9aed4:Singularity Phantom Level 3
+9e2df910-4927-7313-e6b9-639454ef0e91:Singularity Phantom Level 4
+f0a2a250-4cab-264b-30b0-8ea0706589ff:Sarmad Phantom
+d39a4263-49d3-f2e0-2c13-c299f8644518:Rush Phantom
+4707bae8-4938-71b5-ce5c-52aad3f24d21:Velocity Phantom
+fc4c3dcb-4f6d-5e8e-3dc3-1695f55d24c2:Team Ace Phantom
+9dc0bdd7-4d88-9360-38d6-3ea62b1daaca:Prime//2.0 Phantom
+63295da5-48de-df35-3b77-868a779638a3:Prime//2.0 Phantom Level 2
+0f68f728-4d09-f66d-73e3-c9a8f2643652:Prime//2.0 Phantom Level 3
+ed4773ba-465d-6501-701a-e39d1ba0b97a:Prime//2.0 Phantom Level 4
+66f68f67-4f5e-8188-8ba8-b183e25e93e7:Avalanche Phantom
+4845a7ab-4120-ae1c-aec1-9e915a7424b1:Prism Phantom
+645fdae1-4056-e40c-b8e4-a08aea0dfe2f:Serenity Phantom
+279e0a89-4dd6-b135-cef9-8ebb1df6f2ac:Ruination Phantom
+9f3ecff5-4662-075d-1684-1eaa7e604fcd:Ruination Phantom Level 2
+770549d5-493b-be86-2b38-098d394d1406:Ruination Phantom Level 3
+9b6f0d5b-4bb9-9b45-2564-a2aac9d2526b:Ruination Phantom Level 4
+a7229cba-4691-62b0-9c40-f59a29817ddc:Kingdom Phantom
+19b20b51-472b-e837-e5da-f8a348110dbf:Smite Phantom
+aa610521-4bea-bc0e-1bd4-94b67fd90db6:Celestial Phantom
+04dbf8e5-44fc-73f7-0655-8ca05a47739c:Spline Phantom
+186d9fbb-400e-665b-e5f3-c08b24b6974f:Minima Phantom
+f38b2545-4498-48b3-150e-1589e25e7aa7:Galleria Phantom
+a127c324-4213-23a2-ff77-1284431dad74:Silvanus Phantom
+b8bb264c-4578-2410-8dfa-6aacfeb318b0:Ion Phantom
+d8168629-4e42-1359-4401-ffbb79f59866:Ion Phantom Level 2
+1b251e84-47f3-738d-c686-6cb718e66c71:Ion Phantom Level 3
+f97aa61f-4119-f21a-621d-589fe5e55b01:Ion Phantom Level 4
+c00e786e-4e6f-0ef7-0ce3-32ba9918ba41:Oni Phantom
+2c4e829a-4915-e9d8-5c6f-43a39d60afc0:Oni Phantom Level 2
+bb07581b-4733-ce33-53d4-3dadc038ca4a:Oni Phantom Level 3
+1b24255d-4f50-9202-7b6f-f7873db580d1:Oni Phantom Level 4
+d17aa037-40df-ce4d-1009-59a02323f002:Hue Shift Spectre
+24a1644c-4aa9-50cc-9ca3-4aa7be12339d:Aero Phantom
+76f9caa0-40ae-ecd2-5598-53b0beb969c7:Artisan Phantom
+a7cf8684-41a0-3dd4-e30c-6f9b4b34e635:Protocol 781-A Phantom
+2c072ecb-41dc-8e3a-b39d-fc954c0cf450:Protocol 781-A Phantom Level 2
+91bb9969-4c02-decb-7c01-24aee1efa6d9:Protocol 781-A Phantom Level 3
+57dbc793-40a4-17e8-db04-95b739411e52:Protocol 781-A Phantom Level 4
+a117218e-4f0e-0cca-7758-7ea30b08ac05:Protocol 781-A Phantom Level 5 - Localized voice-over may differ in your region
+1452386a-47ab-bd8a-775d-9194020ca52d:Lightwave Phantom
+00eb5b5b-4697-44b5-a926-7e86b730e812:Snowfall Phantom
+5be0b43b-4e66-ab8a-91d9-be9137e2e1c2:Recon Phantom
+a8509c8d-4061-1c57-60a5-61a025f28408:Recon Phantom Level 2
+b64d1e55-402d-de3c-6ad5-ffbc9c201d1f:Recon Phantom Level 3
+e47e2e77-4923-dbe8-ab46-aba9af1a029e:Recon Phantom Level 4
+c71c8e2e-481f-c09f-57ef-91846a982cb5:Infinity Phantom
+871e73ed-452d-eb5a-3d6b-1d87060f35ce:Phantom
+437fae46-4145-c8a5-14d7-9c8a05bddb05:Tigris Phantom
+7b534393-40b0-38d0-1ffc-2b8b78708264:BlastX Phantom
+5725e2ca-4889-cd60-67e9-b4b968a2f461:BlastX Phantom Level 2
+0f690150-4a9a-1a0d-2ec2-c596696cb311:BlastX Phantom Level 3
+2d8a7310-412c-448b-3475-f681999e3920:BlastX Phantom Level 4
+63a65008-4266-1117-fe3d-d1bf290b7da9:Winterwunderland Phantom
+f27be4ed-4fa5-9c3a-592a-b98bb455fd12:Undercity Judge
+712c7a37-4524-0b27-dfdd-4e95181dd36e:Glitchpop Judge
+c9480c4d-4005-8cd9-e1a2-18bed7f2e801:Glitchpop Judge Level 2
+6f48190c-403c-3a92-1a89-f983fa9281db:Glitchpop Judge Level 3
+c60c98e3-41de-ed9c-fb92-aa9c6e0bc7a0:Glitchpop Judge Level 4
+d8c9fee3-4e02-bc92-a235-608a556905ae:Elderflame Judge
+640764d8-495d-3663-27ab-b99f5f2466d6:Elderflame Judge Level 2
+d95e4b3c-4081-4005-cae7-14b890046b4f:Elderflame Judge Level 3
+d41a4383-4c15-4c3f-1f16-4fbb4fb36ed8:Elderflame Judge Level 4
+33d3c906-4305-19cf-8770-1eb5207482cc:Rush Judge
+ca41d64f-4622-593f-382e-0484a1a3dd6b:Team Ace Judge
+e6bdb298-4372-7c74-a057-f891a3ade5e7:Shimmer Judge
+f8cd4279-4530-db62-1e4e-aa82c129b045:dot EXE Judge
+77dd3407-4580-9734-a0bb-6b80a4e5be3e:Goldwing Judge
+2a25f841-4769-6536-ded3-8890ee26c430:Hydrodip Judge
+11e342ba-4f18-b9ab-964e-e48fdf610890:Outpost Judge
+b3e563fe-4a91-6070-4582-7ca51d62631a:Prism III Judge
+4afdc818-4665-1582-6319-8081aa64e550:Serenity Judge
+1b94d997-4db6-014f-4cb8-c1b4df7d7ebc:Smite Judge
+4f45735c-4513-e9a6-48ac-35acca4c3410:Celestial Judge
+cfeb4b7a-4310-796c-db4e-fb9844823992:Luxe Judge
+fe644484-4d07-5472-9e4a-d3992f2f2ecb:Coalition: Cobra Judge
+3c23fdc3-4300-ec78-5123-bcb0dc456473:POLYfox Judge
+7ae57ece-4560-236b-5bdb-5f8ee2c294b2:Divine Swine Judge
+a1c04a89-45e6-0406-9e1a-668cd772fc63:Jigsaw Judge
+65ed014b-4279-8ba5-01d3-f48d4e7f115c:Sensation Judge
+e1b5cdca-4df5-5c4e-f34a-3cbdd3fd8735:Snowfall Judge
+6942d8d1-4370-a144-2140-22a6d2be2697:Judge
+73e91435-4a2a-2552-d541-eb961e168f2c:Convex Judge
+07ac5e03-42e6-0fd9-b8fa-4d9f059b904f:Varnish Judge
+01a984b8-4b91-ab61-60b9-1bb9ce54bd04:Xenohunter Bucky
+a3073107-4927-808c-acce-e0972543f75a:Xenohunter Bucky Level 2
+56042ce2-4f95-19be-7cac-5fb191683953:Origin Bucky
+d7ba0b3f-445b-1075-69b9-ebb3d79f7cc6:Origin Bucky Level 2
+36f894b7-49ae-251d-d6c1-6ba43588feb0:Origin Bucky Level 3
+52790992-4d3d-cca0-87cd-f8a54cb1a919:Origin Bucky Level 4
+bddfd0ba-49a1-0f4f-e32a-d5a1ed29d5fc:Radiant Crisis 001 Bucky
+9485c7ec-4869-5454-165f-08898e934835:Radiant Crisis 001 Bucky Level 2
+587f57bf-495d-2201-1db4-71aa270dd589:Radiant Crisis 001 Bucky Level 3
+633521c9-42ae-d2be-78c1-a09b25af7d10:Red Alert Bucky
+1e7be2e9-418e-7f39-d879-a8912be1d3ab:Surge Bucky
+b7652717-49c0-b658-529e-6f8146ab0eca:.SYS Bucky
+f7425a39-43ca-e1fe-5b2b-56a51ed479c5:Horizon Bucky
+a773dd2f-4027-4b98-8d4b-5ea0c7924883:Monarch Bucky
+338bb3e6-4c47-425d-32a5-5ea1a96c78ae:Hydrodip Bucky
+f987be1f-4287-35a4-34a9-d6a92805e7ff:Prime//2.0 Bucky
+bb7700ba-44a7-fac9-0a8b-969412238fd4:Prime//2.0 Bucky Level 2
+1db224e3-49b7-eba5-0c94-779238480de1:Prime//2.0 Bucky Level 3
+a468da91-408b-e7ad-9872-9dafbdd7d37c:Prime//2.0 Bucky Level 4
+1ef3c871-45db-0f6d-fc34-8bb2685cd6c0:Prism II Bucky
+4caa7fb0-4751-52f3-6eed-6ab6232be131:Kingdom Bucky
+78776175-4040-282f-07a1-0199b1fdcf58:Magepunk Bucky
+82fe02be-416e-f563-4fed-28b74d7c6675:Magepunk Bucky Level 2
+e98fc056-4234-d1b9-7d0e-eeb0c41742ad:Magepunk Bucky Level 3
+3022b056-4d17-3b4a-a80d-22b096b977ec:Magepunk Bucky Level 4
+03e03718-4c65-8a47-fb8b-78ba233cecd1:Galleria Bucky
+bb3e45b2-4c4f-e0cb-c094-3a95261bba35:Genesis Bucky
+f00520c8-4b70-7255-d23c-c0a4887656a2:Ion Bucky
+d8f0cad0-40a3-75a4-389b-5d8e91e9e157:Ion Bucky Level 2
+b1a6a3d0-4c31-266e-0d66-5a960d452220:Ion Bucky Level 3
+18039610-4134-95f2-0791-e18a2e9f30dd:Ion Bucky Level 4
+cdc130c2-4b12-3702-c8f6-5a8920746395:Oni Bucky
+8f1dbce8-4012-72a8-1e4f-d4b50cfc5bb8:Oni Bucky Level 2
+b5e520a1-43a6-c144-e70d-918d90f05233:Oni Bucky Level 3
+af478f2a-4dae-43d3-1545-7d96a65c60b1:Oni Bucky Level 4
+5466bacf-446b-52a1-611d-339f6f376d40:Artisan Bucky
+22c0aaa3-4919-5a7b-90c0-2dacafdc32fe:Gravitational Uranium Neuroblaster Bucky
+c91875e5-48a9-0820-6b65-aba73bf3479d:Gravitational Uranium Neuroblaster Bucky Level 2
+23885a08-4a77-82a7-5dbc-ec812f252ca0:Lightwave Bucky
+b6a089dd-4616-be48-4f28-d8b2a539c0a5:Cavalier Bucky
+0771ccd2-40b0-54cf-37b4-c3b5cac03bdb:Titanmail Bucky
+2f5078c7-4381-492d-cc00-9f96966ba1ec:Bucky
+5f2ae626-44a5-b1c5-a879-98bc2fe587c6:Aerosol Bucky
+bea776cb-4d13-136a-be7f-639dbb7ba01e:Task Force 809 Frenzy
+6f2aefab-439d-140a-4dc6-87818e2d72cd:RGX 11z Pro Frenzy
+496447ae-41f4-278b-ff4a-e09f3272b287:RGX 11z Pro Frenzy Level 2
+0342399f-45e4-869d-4426-cd8dfc9e0007:RGX 11z Pro Frenzy Level 3
+61ceadee-4869-1676-4207-228ac4e19664:RGX 11z Pro Frenzy Level 4
+17ccfd06-4449-de46-2170-a29448d8f4aa:RGX 11z Pro Frenzy Level 5
+8f254346-439f-0e98-2428-62b0c669d2ae:Xenohunter Frenzy
+59a1d043-41ad-111c-80c7-2a94d534819f:Xenohunter Frenzy Level 2
+b02520dd-48cd-466c-977d-529dc6a1d6f5:RagnaRocker Frenzy
+c4547e69-47a7-dc52-d09c-94bbf87dba0a:Origin Frenzy
+bcdaa979-4e4c-744c-6fd9-2381b2fc2341:Origin Frenzy Level 2
+4a42f394-4f6c-0b13-3e83-5a8bdf81e0f6:Origin Frenzy Level 3
+d3496119-4338-51cb-793f-dda5845d38a5:Origin Frenzy Level 4
+4b74b3ee-4a63-7339-a28f-8b8be010ca5a:Glitchpop Frenzy
+eddc294e-45f1-026e-1362-70b4e1f1f03a:Glitchpop Frenzy Level 2
+d89c07d2-4eab-3776-fa3e-d6abb0e18188:Glitchpop Frenzy Level 3
+71af2fc6-4a39-7c34-158f-abbd0eeb97e5:Glitchpop Frenzy Level 4
+ea65ba94-468d-39a8-5ded-98820d72d19f:Elderflame Frenzy
+63307028-4680-bbf3-a69f-7faad8113a49:Elderflame Frenzy Level 2
+b86ea344-404d-de22-92c8-1b89c455c47d:Elderflame Frenzy Level 3
+f70dc825-4be6-0074-0526-758b3f183152:Elderflame Frenzy Level 4
+1ef9fcc9-4087-a079-616a-849f43c51665:Sarmad Frenzy
+3e32c58e-4347-e4b1-4502-6dab0dc516a8:Rush Frenzy
+8a3d3cb5-4c8f-0604-b931-9388de1eabad:Team Ace Frenzy
+2f911f78-46e4-102a-f677-37a069c3a4dc:Swooping Frenzy
+7cd7c895-4da5-a3bc-3518-ff8d53af5151:Horizon Frenzy
+ccbd02ca-442d-08b7-e862-e1a350266fb4:Monarch Frenzy
+c485b3df-4ea3-d457-e75b-35add7e78e7e:Hydrodip Frenzy
+2607b2c6-45f7-e75e-94f8-58a738773d5c:Prime//2.0 Frenzy
+5c29291f-45d5-d302-5cd8-38af2e1565eb:Prime//2.0 Frenzy Level 2
+5c5edc8b-407e-55b5-ae14-9bb555b4043b:Prime//2.0 Frenzy Level 3
+ac9c073b-4dd0-28c4-3b6a-f09e3a25e60f:Prime//2.0 Frenzy Level 4
+9d333ff1-47e2-04c7-2a26-688c08e9164d:Couture Frenzy
+55869fb8-4a79-e684-2000-028fa9f54060:Nunca Olvidados Frenzy
+4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4:Celestial Frenzy
+337b4e6a-46d8-8359-50c0-388717617044:Coalition: Cobra Frenzy
+468505e6-46e2-af29-3974-5fbbe6bf212f:Spitfire Frenzy
+2f69bfe0-4126-4d2b-91b4-c9a2cb1909da:Aero Frenzy
+e44b70cf-4e83-19d3-a748-5f849054dad7:Divine Swine Frenzy
+5a773352-456e-ef0b-35ab-c99ead159264:Sensation Frenzy
+fe7ac291-4516-02d4-9101-0a990615a585:Lightwave Frenzy
+47ee5cb6-4059-df8b-6d40-5daaa01ff49f:Titanmail Frenzy
+08e6ba32-4a6e-8680-df58-39af9c32cdac:Live Wire Frenzy
+80fabd74-4438-a2dd-0c39-42ab449f9ec6:Frenzy
+31da3ec9-4eb0-ce9f-fcbb-e09ec626e748:BlastX Frenzy
+3ce662ff-410f-4ed6-1e81-94ad17a685e3:BlastX Frenzy Level 2
+a37d950a-483a-ec0d-8ddb-218f726df65e:BlastX Frenzy Level 3
+79eabc1b-45ed-ea03-35f4-ffaadccfc675:BlastX Frenzy Level 4
+90cd5d86-4516-918b-29af-07b116f63aa9:RGX 11z Pro Classic
+335af838-4f48-e2db-ca91-3d976aab34c2:RGX 11z Pro Classic Level 2
+c11deaae-4528-af24-25c6-7f8d928951a5:RGX 11z Pro Classic Level 3
+44fb2542-45e5-f504-fdb5-fdb075ece7af:RGX 11z Pro Classic Level 4
+4c741d16-4ab3-873f-99e0-7ab0c0643f08:RGX 11z Pro Classic Level 5
+68ee5c6c-4424-e95a-f46f-c08ec2dfeb97:VALORANT GO! Vol. 2 Classic
+fe32e4bd-420f-b4cc-de37-febb78df9e16:Spectrum Classic
+dfa8a5fd-41bb-cb7f-a8c9-f4b9e1d1de26:Spectrum Classic Level 2
+345b4316-42d1-6e90-321d-fa930ef43762:Spectrum Classic Level 3
+40489a32-47c8-710c-5ed9-738a61a3db38:Spectrum Classic Level 4
+c2e41149-4f8b-e191-a0ae-5a94b80044f5:Pistolinha Classic
+564806a9-43fd-986e-7901-6790b6077a0d:Striker Classic
+13f3818c-4518-cf39-51f6-8cad1dc5bfc6:Radiant Crisis 001 Classic
+e70a810d-4dc6-7d09-cb28-eabe004df4bb:Radiant Crisis 001 Classic Level 2
+499135d0-4848-c78c-21fc-5699a262fa95:Radiant Crisis 001 Classic Level 3
+d2b8b79b-4be7-4790-a356-4e9b06d3965e:Red Alert Classic
+1590d353-4b81-4207-b79a-5493231cbee7:Undercity Classic
+25cb63cd-416e-ab23-2377-d18638679871:Glitchpop Classic
+1a8103b0-4daf-2bee-6051-75a80cc49dce:Glitchpop Classic Level 2
+f7b66f96-46af-4003-7b9c-9d86a18fead8:Glitchpop Classic Level 3
+748397a3-42c7-7482-3451-57a28b3af4c3:Glitchpop Classic Level 4
+30f3e881-43d0-a455-b272-e8968c45761f:Finesse Classic
+29a5ecc2-4f93-068a-130a-b5a8a113fec9:Surge Classic
+3e20522c-42ba-797e-b469-da88b5de7505:Songsteel Classic
+81658642-4f78-cbb4-9e40-b8856a904bc7:Forsaken Classic
+5ee11790-419d-af54-61da-9983470dddb5:Forsaken Classic Level 2
+64b7415b-4425-6d04-9aae-d8ac9c502f8f:Forsaken Classic Level 3
+0256f32e-4c05-d95f-5a98-1caa0a3f7d6f:Forsaken Classic Level 4
+54bce490-408d-3547-3d8a-aca353c2fa01:Shimmer Classic
+e7822f41-4dc8-6fab-a931-4fb1bb7590ab:FIRE/arm Classic
+ead87ff8-4cad-e895-fd07-57b4db148022:Goldwing Classic
+c7695ce7-4fc9-1c79-64b3-8c8f9e21571c:Prime Classic
+7b2c1232-460b-ab9a-1eca-55b5aee9ad08:Prime Classic Level 2
+4fc58223-43e7-a868-a6df-5e93be31369c:Prime Classic Level 3
+e8a35ddb-4ce7-3867-154c-94803ed12a24:Prime Classic Level 4
+3800390c-4192-92d1-1703-33ba231fc226:Avalanche Classic
+01868af0-4d5c-6f65-5b77-b6bb5aadaf09:Prism III Classic
+6ab90b28-49f1-9e1b-5083-2da2de61e109:Kingdom Classic
+eb35e4e1-4138-9ece-08e2-69bd414cf598:Smite Classic
+1b300b91-41bb-d468-f65f-f68ec0861bd6:Spline Classic
+b8bc5d1b-44aa-aa83-0246-b1a6bb496177:Galleria Classic
+f35f6e13-4b7b-da38-c0de-5c91fffd584b:Gravitational Uranium Neuroblaster Classic
+6958fbf5-4708-f97e-92e1-c7abdf6724b1:Gravitational Uranium Neuroblaster Classic Level 2
+df639108-4e9d-7fc1-51da-4dbb810ba011:Sakura Classic
+f2a7150b-4894-0dc8-53b3-bf9a30fa4ea4:Snowfall Classic
+03dc8f7e-46b0-e412-e335-47bb646fa057:Infinity Classic
+51cbccad-487c-50ed-2ffd-c88b4240fab3:Classic
+bbbe4b32-457c-e4fb-a674-1d9c3885d331:Final Chamber Classic
+2dd042e4-409e-c8ed-ec76-758529e49d99:VALORANT GO! Vol. 1 Ghost
+f7862f1f-4340-6e42-b1fa-0ebcdcf43456:Gaia's Vengeance Ghost
+faced80a-4ebf-c35d-ef38-71a32b63a143:Gaia's Vengeance Ghost Level 2
+1694d232-4a90-7da9-dd1f-268626aa573d:Gaia's Vengeance Ghost Level 3
+13d0ce22-4c97-02a0-4e16-c7964d9b1332:Gaia's Vengeance Ghost Level 4
+80073abf-4fea-b06d-f70c-bdbe6d8ce0a7:Endeavour Ghost
+c247790e-4a6b-a3f2-1e1f-ccae710b5179:Spitfire Ghost
+9466088a-4ad8-cb08-ec9a-45aaba3a6acd:dot EXE Ghost
+afcb2528-4415-0178-98b1-c0a751092762:Hush Ghost
+a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b:Infantry Ghost
+9130e35d-49bb-027d-c536-96a8b63c3f1c:Goldwing Ghost
+9fa5664e-45fa-2a52-68e4-db97d85c8a91:Outpost Ghost
+5546f723-4056-6700-80b8-f1b8d42e4952:Prism Ghost
+de822d80-4e91-943d-3dd5-429513e7d177:Serenity Ghost
+5e1f5465-40cd-2c0f-33ab-398c5367d080:Ruination Ghost
+4ac6acb8-4b37-67fd-39ec-c6800ba7367f:Ruination Ghost Level 2
+e26a2676-4257-a963-cf70-bf9f52f1f318:Ruination Ghost Level 3
+b78f3320-444e-b936-637c-258505ea509d:Ruination Ghost Level 4
+68564c51-4f7e-67d1-fd0d-4e9d216356e8:Luxe Ghost
+003e0991-4370-8837-f8fc-6ab3acec2dbf:Magepunk Ghost
+b5ced653-45ca-9cd4-e6d5-8db020c6881d:Magepunk Ghost Level 2
+aa704280-43ff-991e-c3d7-63abf43c8bd0:Magepunk Ghost Level 3
+abf6805e-4def-f0f0-92cf-28bb67c46fed:Magepunk Ghost Level 4
+b70db444-4ede-9cee-25dd-35b2edb38cd5:Artisan Ghost
+d0793c86-471d-c60c-b0da-bcbadcd8bf12:Jigsaw Ghost
+55aaa4ee-4d64-51c7-3c09-fd9bcbe1d122:Eclipse Ghost
+04c6f57c-4463-f8b7-a475-6c89b2ec4416:Lycan's Bane Ghost
+ed8a1109-4e48-f077-636b-e98dd332bfcc:Sovereign Ghost
+94b4e0f7-454d-0e5b-9f32-4d9fd399d8a2:Sovereign Ghost Level 2
+5aa0593c-40fc-b9c4-9232-7f91f75b9fbd:Sovereign Ghost Level 3
+d5e747da-4d41-28e2-68b2-c5b41584f7cb:Sovereign Ghost Level 4
+b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d:Tethered Realms Ghost
+459343eb-4c56-4f10-ff2f-fbbf07d3695d:Recon Ghost
+ee07b00e-4ef5-66dd-adae-91b90b1b8556:Recon Ghost Level 2
+a2664625-480a-86ce-1ca6-609125252be2:Recon Ghost Level 3
+7cee2791-457c-6017-cfba-bca7f61fc151:Cavalier Ghost
+0a7e786c-444e-6a80-8bda-e2b714d68332:Ghost
+bb0450c4-47db-4fc7-d0c3-a8a5320d673b:Depths Ghost
+f9fab42c-46bf-1bf0-dba5-32988be03fc2:Ego Ghost
+4526a891-4754-da6c-7ada-95a8a259952e:Vendetta Ghost
+d0fda3cb-454c-e81d-94e4-42942c99f02d:Winterwunderland Ghost
+b85b3760-43bb-507d-323e-1682fa76d96b:Soul Silencer Ghost
+6d4766d0-41f0-8493-93eb-a4902a0c6034:Aristocrat Sheriff
+353c1e5f-4258-c49a-c0d6-319ad33bffea:Nebula Sheriff
+4276d2b5-4b1c-b636-aff0-4ea579d875d7:Singularity Sheriff
+4a585df0-4bc4-17aa-1e5a-ccac42b07d12:Singularity Sheriff Level 2
+f73b2921-4f40-918e-08eb-45abd9ce2b3c:Singularity Sheriff Level 3
+65c2c8d3-4473-4f74-305c-ff90fbf318e8:Singularity Sheriff Level 4
+db36ee86-4aa7-249f-6745-5e9ddffa50b4:Surge Sheriff
+6287a1f1-4d10-5190-86ec-659b26020e87:.SYS Sheriff
+d9fc55c6-4b92-98ac-5052-2a8b5ca4fb71:Protektor Sheriff
+b6e6ea9e-432d-ec17-904e-62a5ea45f1a7:Prism II Sheriff
+df35b7df-4add-58fb-418c-0dbea48b7e82:K/TAC Sheriff
+59733cf9-490b-e25b-2c6f-eca947628079:Magepunk Sheriff
+c1e1dc78-44e1-1d94-171e-d7933d2828c7:Magepunk Sheriff Level 2
+43f79fbc-4a00-f0fc-0813-2cb8224ee6d3:Magepunk Sheriff Level 3
+892725e3-4c2a-0333-e43a-1da5896cd6a4:Magepunk Sheriff Level 4
+75b110de-40e5-3e02-d700-2abda38817c5:Minima Sheriff
+9dbc52e2-4889-cbe5-b874-4f8f0f8f3781:Silvanus Sheriff
+2b555f97-46bb-5949-3531-979f5bc817f0:Ion Sheriff
+a60421b9-4b86-ccd3-ca08-808ef4cf112b:Ion Sheriff Level 2
+1ad8e7b3-4547-0890-aa8d-d79be028e48f:Ion Sheriff Level 3
+becd58d6-4da0-db56-a748-35923d2750e1:Ion Sheriff Level 4
+02f45c84-427c-d575-945f-ba913a732b72:POLYfox Sheriff
+54ab75c2-42f2-544f-f4f2-ce9ca9180f6b:POLYfrog Sheriff
+12831559-44ee-c708-b97c-29a43938e3cd:Protocol 781-A Sheriff
+62edd453-4fc5-2ad4-0531-a9aa941aeb8e:Protocol 781-A Sheriff Level 2
+7f084312-45f8-38f6-8ab8-10ac6bef0685:Protocol 781-A Sheriff Level 3
+718ddb3a-42a1-6d78-329f-49b8a2705835:Protocol 781-A Sheriff Level 4
+caf49d9b-4acc-bc39-4adb-29a11802a700:Protocol 781-A Sheriff Level 5 - Localized voice-over may differ in your region
+dd024421-4c2a-7126-b58e-fea865a45aa9:Lightwave Sheriff
+c8652efa-462f-d455-20b0-699dd00a9e2a:Sakura Sheriff
+ec570f46-4751-eeb6-7739-069bcbb8d05a:Peacekeeper Sheriff
+b5601f65-4467-7946-8a37-45bed5514f98:Schema Sheriff
+746a022b-48a9-c51b-f379-11a3e1e2bc8e:Sentinels of Light Sheriff
+fe88374e-4f4e-7736-38d6-fab5df49567b:Sentinels of Light Sheriff Level 2
+adb6d5c9-4049-9878-cf16-36b19239d0f5:Sentinels of Light Sheriff Level 3
+894383ad-4945-3a91-a52c-8f8323a5c59b:Sentinels of Light Sheriff Level 4
+4e4ebb8d-41d0-c326-595a-1f9b257e91fa:Reaver Sheriff
+ab5c63fc-46c0-8c7d-1d67-0da96d4b8cf7:Reaver Sheriff Level 2
+ef84244d-4f04-01dd-36ba-c7b97a688754:Reaver Sheriff Level 3
+a47a0d1b-4405-9de7-6011-68a9a4a1f36d:Reaver Sheriff Level 4
+feaf05a1-492f-d154-a9f5-0eb1fe9a603e:Sheriff
+4538bff7-470c-889c-9875-7ba3ebf87c87:Convex Sheriff
+5fb2a965-4cd9-0564-c8b1-51895ba7718a:Varnish Sheriff
+0d73596b-478a-dae0-49ca-2fa588f78f13:Wasteland Sheriff
+443f5a29-4d5e-d63e-a3c6-ada7713172fa:Game Over Sheriff
+9ee1d68f-4b51-8ef1-b620-efa9760b0d02:Arcane Sheriff
+114a5ce1-43ac-2cd8-3a9a-adbdfa32220e:Arcane Sheriff Level 2
+a07ff70b-4b4b-ee36-78f5-8ba771b278ac:Death Wish Sheriff
+93266c2b-400f-da62-24a0-739f51d33cc1:Neptune Shorty
+e40ba2a2-4b91-8144-0b62-7c8ede15bced:Neptune Shorty Level 2
+e70308c1-437a-d393-5c9a-7386bf8a7e28:Neptune Shorty Level 3
+f1f9cde8-4810-86a0-1c95-4ab214d4f6b8:Karabasan Shorty
+09fded5d-4add-00e7-d3c4-32b8f21c7944:Prelude to Chaos Shorty
+a0708cc3-4f93-228c-fba0-b3938c5efea5:Prelude to Chaos Shorty Level 2
+c977106d-4dc7-bbcd-74e4-efab54475915:Prelude to Chaos Shorty Level 3
+8ca69aa7-451a-1af5-e897-3b9d309e82a4:Prelude to Chaos Shorty Level 4
+deb200a8-447c-0e47-5b92-e8aeb9cd5525:Doodle Buds Shorty
+ba0193f6-4c7d-1b7f-b9dc-4e883a6ba21a:Doodle Buds Shorty Level 2
+d0a95805-4adb-95f7-3955-339d89769bec:Hivemind Shorty
+c6db7920-4d61-556e-7c06-19954b847cbe:Velocity Shorty
+907bab1f-4fca-982e-7645-41a941ef6626:Ruin Shorty
+a8718add-47cd-30ad-12cf-eea925286a91:Monarch Shorty
+61f62d77-4f80-7664-2ea9-538f6fc4b241:Prism II Shorty
+f9688e62-42c5-9f10-f160-49abaee2e02c:Wunderkind Shorty
+f5f8fb4f-4c3a-ee60-ed0c-bfb8cded09fc:Genesis Shorty
+a2950772-447a-f2db-be24-19b0e0ed736f:Oni Shorty
+75a66462-49d7-134a-03e1-bc8c3b7fda7a:Oni Shorty Level 2
+02461d7f-4f0a-f25f-94b2-ee960d0734d7:Oni Shorty Level 3
+25e2a599-4564-708a-b80e-afbeb6781372:Oni Shorty Level 4
+6f90d1ed-4acc-d925-4a8a-60913f14d16b:Snakebite Shorty
+31629ef7-47ac-908e-369b-16beabc02c5b:Hue Shift Shorty
+a7f92a1c-4465-5ea3-7745-bd876117f4a7:Shorty
+1db941af-4587-c6a4-5885-dbb77fefcb32:Aerosol Shorty
+9f282aa1-4d3e-7595-83ca-0a97fc89ba31:Tigris Shorty
+673149d4-463f-27a5-163f-78a599244fc3:Wayfinder Shorty
+a88a4c80-4913-a111-0fba-878adddd381a:Wasteland Shorty
+2ad7a62f-4091-ecba-de21-d19edfb41086:RGX 11z Pro Operator
+873e2729-4986-6471-2c75-298a5e9205e3:RGX 11z Pro Operator Level 2
+6c940bdf-45a9-583f-7d14-028b380ed37b:RGX 11z Pro Operator Level 3
+2f1221b2-4e99-a2e7-4f63-0e9c6dab5b62:RGX 11z Pro Operator Level 4
+2084911a-479d-14e5-13b4-b3856a39885e:RGX 11z Pro Operator Level 5
+68811d2b-4a6d-cbdc-39d3-f580aa97a297:VALORANT GO! Vol. 2 Operator
+fd486ca0-4d52-4e9b-ec35-dc8cd450b679:Endeavour Operator
+4d19c241-4350-6658-f5a6-5c99ca8e5e99:Origin Operator
+b225c7d3-4ab2-e703-1e5a-f2885730e81c:Origin Operator Level 2
+a2fff901-4bf8-3029-ab04-da96f8b9a73e:Origin Operator Level 3
+99bf69d9-4451-cfb4-456f-c3b5cc4fcf5e:Origin Operator Level 4
+3cd5ed19-405b-9600-489f-4e84900ea2d3:Striker Operator
+fc4c9003-4069-d351-e0b5-03b509638c2c:Red Alert Operator
+d92a6ee6-4073-8b7f-e944-f1a55606a28a:Glitchpop Operator
+e2b3a374-4e26-0d5c-45cd-9490013b21ef:Glitchpop Operator Level 2
+95695ed5-4b4b-01a9-ba22-86981af7d2f2:Glitchpop Operator Level 3
+e177f0db-46fc-d779-fbea-d488780c322c:Glitchpop Operator Level 4
+7c89312b-45fb-a892-4525-659ba3de4475:Prelude to Chaos Operator
+2532802b-4090-340a-1ebc-7cad0600d09a:Prelude to Chaos Operator Level 2
+79d28c39-4418-2b35-74ef-989c4e270f87:Prelude to Chaos Operator Level 3
+77b80391-46c8-f950-0f28-15bf5dea85b6:Prelude to Chaos Operator Level 4
+5c273d0e-47fa-bb8c-d914-728de95da30e:Elderflame Operator
+ea7094b7-4f29-2570-0003-14a9b872fc19:Elderflame Operator Level 2
+02567ece-47a2-a68b-7853-668f45ab0ab0:Elderflame Operator Level 3
+41ad7696-47bf-cd88-115b-9cb17ad77919:Elderflame Operator Level 4
+f49ac94f-4965-1e13-e293-a9838b042a83:Nitro Operator
+10a5fe91-4efa-9d6b-44f7-47ae9660550d:Forsaken Operator
+995b9baa-4335-6ff8-5868-bba728958de5:Forsaken Operator Level 2
+d542977e-4c98-1e6a-583f-7fa169afabba:Forsaken Operator Level 3
+a2774d57-4703-9acc-7cd9-a2895b754c51:Forsaken Operator Level 4
+4491f330-4d30-04f7-d609-4face7e5bd5f:Team Ace Operator
+fd6e9471-490c-b17e-f17e-a7820f3d36a2:Spitfire Operator
+e7301730-418f-e0fb-c930-9598741d5c30:Infantry Operator
+37851a69-4719-d8ae-d305-49bcee8d853c:Prism Operator
+e045334d-4b19-26df-739c-f89fd561714f:K/TAC Operator
+e5a2e04a-4805-1244-5376-06b40d7c6cbb:Luxe Operator
+369c9f89-49fa-94bc-f3f8-b9b94b6395af:Magepunk Operator
+f70b8147-4f4a-506e-6b3b-aca8b7b84f40:Magepunk Operator Level 2
+66cf7185-4989-a3c5-6ad3-fcb7858b81cb:Magepunk Operator Level 3
+7481ec87-4a9f-e4cf-d898-e0bd750e3b0c:Magepunk Operator Level 4
+4c053776-467f-2c6a-b609-0ba3ea371a14:Spline Operator
+436f42cc-49c5-b535-4fdf-c0bd48695919:Minima Operator
+49b00063-4a7e-6c73-b8c9-68a8d5727757:Silvanus Operator
+8f557248-48e2-28a5-3ad4-eca783fde786:Genesis Operator
+24c73c29-443c-2440-d6db-838086f2451a:Ion Operator
+8a0328e1-4067-ddaa-fb06-e6ab0c0c9a54:Ion Operator Level 2
+65888fca-4a1d-da64-8735-8495d86338ca:Ion Operator Level 3
+4ffc2ae6-4501-2c43-a105-f4977a0a207e:Ion Operator Level 4
+4aa31563-44e1-0d9f-f95a-a1b9965ad762:Gravitational Uranium Neuroblaster Operator
+d3b07995-4ab5-7593-f3ff-b6ad7e8599d0:Gravitational Uranium Neuroblaster Operator Level 2
+69657d05-4309-9779-d445-6da864067246:Sentinels of Light Operator
+997e0365-4152-fcd5-dc81-e3bdfd012815:Sentinels of Light Operator Level 2
+3366fc8b-48cb-7804-009c-74b072e2dc48:Sentinels of Light Operator Level 3
+e7066739-41cc-c929-3313-a0b414b55fd8:Sentinels of Light Operator Level 4
+7bfab387-4e97-d815-4488-c491e3a5520c:Reaver Operator
+bf02e33f-4d16-e361-d1ed-1eb58de846c3:Reaver Operator Level 2
+59409cb0-4583-20a4-c905-4db393712af7:Reaver Operator Level 3
+21305a72-4374-67c7-c25b-e0bb8dc2da52:Reaver Operator Level 4
+65d832e3-4b34-b4b9-fde0-9d897d5fe51b:Tethered Realms Operator
+19e0625f-4bcc-5126-014a-008c6df44ba4:Cavalier Operator
+88cba358-4f4d-4d0e-69fc-b48f4c65cb2d:Operator
+35001b1f-49fa-48ad-a087-03809f6f059e:Aerosol Operator
+2ecb0e86-4a14-b33b-8fe1-db96f2c3aa69:Tigris Operator
+ed333b00-4e88-a9c5-d309-acae85438e93:Convex Operator
+43361d49-4331-ee30-e356-0f925e6e17b9:RGX 11z Pro Guardian
+ae053014-4e34-41a4-2d4d-ac87e0498e42:RGX 11z Pro Guardian Level 2
+7205c0e1-481c-a95d-61ee-f5a1f2de86a4:RGX 11z Pro Guardian Level 3
+39f873a7-4fff-d29e-45ab-e8ac8823cdd1:RGX 11z Pro Guardian Level 4
+3595b261-40e6-a344-5689-a7a28128895b:RGX 11z Pro Guardian Level 5
+920d9d08-4f22-9f1e-b309-ddbbe5ecb91c:VALORANT GO! Vol. 1 Guardian
+c9ceffba-471d-ed6c-04a5-11b71bef3f60:Neptune Guardian
+aa1d933d-4c1b-28d6-9607-1b95e44621e8:Neptune Guardian Level 2
+fcc8ce05-4a54-31d4-f1e6-febd8f8b567e:Neptune Guardian Level 3
+e16ea577-4d7f-e686-456a-54b4b1d9cba2:Gaia's Vengeance Guardian
+6a379936-42ac-6988-f462-1abdf52b155a:Gaia's Vengeance Guardian Level 2
+bde3fb91-4a71-8167-7bc6-64950a02b2dd:Gaia's Vengeance Guardian Level 3
+614d4b74-49d0-7dc3-44c3-558ea0400288:Gaia's Vengeance Guardian Level 4
+19ba907b-4a76-347f-ea24-38990c9ff755:Spectrum Guardian
+e03cf7b6-453e-5fb7-3240-11afd5ed4b47:Spectrum Guardian Level 2
+1fbad515-44c3-123e-8e80-96a4a4bf40ca:Spectrum Guardian Level 3
+d4794a6a-4c89-8765-0081-55a61376b10a:Spectrum Guardian Level 4
+bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe:Nebula Guardian
+03d98493-4964-3f66-7e23-7581bbcfa501:Nitro Guardian
+6672800e-442c-a0b5-92d3-ed83483f04df:Songsteel Guardian
+4b46b688-4da9-1a19-1be4-af9cafd7392d:Spitfire Guardian
+c41a7b5d-4a04-a411-053d-818fe1d77ac6:Ruin Guardian
+a2c59452-4420-130a-9aa1-cb8ea551a05d:Infantry Guardian
+0ab465ed-4539-16f1-b791-5384280e0a1c:Hydrodip Guardian
+9336ab9d-445c-0872-a283-9f9b61a0098a:Prime Guardian
+edc646b0-4a5a-6a76-a860-6b8db95bd132:Prime Guardian Level 2
+14b04b38-4359-62a3-ab62-bcbe715e3fa0:Prime Guardian Level 3
+99b7b761-41b3-e26c-ceeb-b9a1c3a67736:Prime Guardian Level 4
+0e1af0d5-4dee-15db-25b5-31a7da6f1d52:Ruination Guardian
+e5686279-4ecb-8dd0-bbc1-5cacf998c392:Ruination Guardian Level 2
+972f5a0c-453a-fa8c-c0e6-7ca9dc4b98bb:Ruination Guardian Level 3
+26727126-4b2a-b735-ef3e-df9b98c7bfee:Ruination Guardian Level 4
+e63eab09-47e4-25be-6c9f-57995385429d:Magepunk Guardian
+723343b6-4c37-2591-7892-c187e5c9e3e8:Magepunk Guardian Level 2
+10eb0fb8-4850-c585-57bc-8fa85e52f26a:Magepunk Guardian Level 3
+ba011f9b-41c5-4aa5-ed42-8a9b148a04f3:Magepunk Guardian Level 4
+7a0374af-42f5-2f99-b535-a997f2179717:Galleria Guardian
+fee2c305-40d1-1cca-08b8-46bceda98eca:Oni Guardian
+10db658a-4299-a0cd-8822-feb09adca3ad:Oni Guardian Level 2
+fea4c5e9-4028-72b1-0dda-00b9d14026a2:Oni Guardian Level 3
+9318a2c8-4ccc-bfb4-e7d9-6289608a4ba5:Oni Guardian Level 4
+d52eb83d-4bc0-085d-3ec7-24b2c92281bf:Aero Guardian
+df9044e9-4ed4-4a49-b7ce-babc4a0e23d6:POLYfox Guardian
+cf06c0d6-4c0c-1e8a-0553-999a45a53ae1:Jigsaw Guardian
+c9f0ea7f-4bed-b10e-62d2-0394444feed1:Reaver Guardian
+ad0e9e83-4658-0a02-a912-21b41df87c38:Reaver Guardian Level 2
+09faf945-4be6-ee7f-43d5-9fae75e182ec:Reaver Guardian Level 3
+4e1b9e7d-4cfc-9a14-4fe1-ea9185cdb6d9:Reaver Guardian Level 4
+8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb:Sovereign Guardian
+32cf9b7a-4ea1-64f4-1405-32a2ee614bc8:Sovereign Guardian Level 2
+62f258e7-4821-4925-29b3-3ca90972991f:Sovereign Guardian Level 3
+04c6a2a4-400a-b0df-b482-658c59529ee6:Sovereign Guardian Level 4
+f202625e-4647-b575-07a9-3fbc39d72b10:Tethered Realms Guardian
+7bc358d8-42ad-611f-5594-37888c23abe3:Recon Guardian
+6112d121-499c-4be7-fd16-0296b8f663b5:Recon Guardian Level 2
+726c71a4-423f-7110-6335-37bfe64a5fdd:Recon Guardian Level 3
+28441795-4cf2-4728-f648-2598ee0ff7bd:Recon Guardian Level 4
+4c51b90b-4629-f1b0-5b53-5aa7fb787be0:Infinity Guardian
+414d888a-41ce-fcf0-e545-c49018ec9cf4:Guardian
+fa3d6a11-46c4-2caf-f7e4-10a5013c034b:Ego Guardian
+8c19bbbd-46aa-6037-b0fd-edafd6227de6:Task Force 809 Marshal
+6046ca8f-4100-4b1a-7e8d-5e8c6625342f:Gaia's Vengeance Marshal
+33d1d8ec-48fc-a601-8184-ec8249e76760:Gaia's Vengeance Marshal Level 2
+3cf85dde-4695-be31-41e9-c8ac2dd22d07:Gaia's Vengeance Marshal Level 3
+c8fd6caf-43d1-f3ef-4a5d-1793ad9e558e:Gaia's Vengeance Marshal Level 4
+43ea5cae-4535-7903-f2c9-65bac9642a99:Doodle Buds Marshal
+d0712e2e-4550-9ae9-d365-f498e21b50a4:Doodle Buds Marshal Level 2
+3e0a3431-4e78-89d1-ee57-d9837e324ee0:Songsteel Marshal
+60dc909f-4c52-b96e-dd37-dfaa2392e373:Ruin Marshal
+c9d3f7be-4753-d85c-7a65-a684b6bebf71:Monarch Marshal
+4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a:Avalanche Marshal
+115ad37d-4126-20e5-35a5-d691aa97a03c:Couture Marshal
+b2f78500-4322-b03d-2745-a3b2208d63fe:Magepunk Marshal
+1b09c0a3-4708-3bec-26b1-e885a5bb313a:Magepunk Marshal Level 2
+9e70420e-4ac5-72c0-6e00-35882e13fc06:Magepunk Marshal Level 3
+3ba019cb-468e-d53a-e92d-c2a3ff804f59:Magepunk Marshal Level 4
+4dd7d0b9-40a9-de6c-ac61-aea19a6d8a77:Coalition: Cobra Marshal
+50265ad5-4f14-2b32-924e-02bbed2bea6f:Galleria Marshal
+f1b4577e-4dd3-6573-472c-a68cfe695d60:POLYfrog Marshal
+3711156a-43c5-de94-3ccc-ee8bae5e6df0:Divine Swine Marshal
+c779f43f-47cc-fe29-63aa-bb8b91b36e42:Artisan Marshal
+c5dd6298-4928-5d64-5cd0-7fa41ea89d81:Sovereign Marshal
+5dfc0af6-4c03-03b0-7066-6ea1770fe6c0:Sovereign Marshal Level 2
+003665b4-4ff3-881b-5c67-3ebd454d4fab:Sovereign Marshal Level 3
+dd1fee10-42ca-1201-5bf8-399a16b25620:Sovereign Marshal Level 4
+f0389390-49eb-a43e-27fa-fc9f9f8aa9de:Marshal
+4049dc82-495b-cecc-8e34-4dbf35753129:Wasteland Marshal
+4fcea818-4877-85f9-ba01-a0b02e1868f4:Winterwunderland Marshal
+303530db-47fe-0e6e-5ea9-0cb5ed61758d:Task Force 809 Spectre
+737d2d1b-4b47-87a4-6045-5183580d27ec:RGX 11z Pro Spectre
+273b3a0a-4bfc-7724-7fe7-7ca3868b3135:RGX 11z Pro Spectre Level 2
+b5614b64-47f4-9cb7-71d2-f99afb43a131:RGX 11z Pro Spectre Level 3
+6aef9ce2-4938-7050-a9d0-fe830cc8b5b7:RGX 11z Pro Spectre Level 4
+66a49dfe-414c-e55c-4961-51885b097521:RGX 11z Pro Spectre Level 5
+291cb44a-410d-b035-4d0b-608a92c2cd91:VALORANT GO! Vol. 1 Spectre
+ef773863-472d-4d81-e50e-1d887cea40f4:Neptune Spectre
+3f812317-4689-48c1-b546-dd9c9e585560:Neptune Spectre Level 2
+816d50c3-43e8-1d75-d27e-169c3d4da02f:Neptune Spectre Level 3
+6c69c2bc-4c7a-6308-8384-a1b2aa00a50b:Striker Spectre
+b39aed48-4bb5-089b-3f60-17aa27e45733:Radiant Crisis 001 Spectre
+ecac2484-4837-b580-a15d-0aab63d56dbf:Radiant Crisis 001 Spectre Level 2
+199d6f90-4a79-9c54-8830-529652499249:Radiant Crisis 001 Spectre Level 3
+3b955119-421c-3319-50cc-1aaf06b42338:Singularity Spectre
+53068012-45a5-232e-0bd7-d5aa786c0347:Singularity Spectre Level 2
+d9c7f033-42e9-57c8-7e94-dd9294018e44:Singularity Spectre Level 3
+ccba3803-510b-4af4-a2bd-f530d8725fd1:Singularity Spectre Level 4
+3d9792a3-4614-c8e0-6eda-58bb52e69d8b:Sarmad Spectre
+4d02d9fa-4cb4-4d87-bdf0-97bd5f960c12:Hivemind Spectre
+daa73753-4b56-9d21-d73e-f3b3f4c9b1a6:Forsaken Spectre
+42c87829-4f30-e11c-6fc7-41a2c04dd900:Forsaken Spectre Level 2
+d68fc9bc-49db-e4d0-6133-5b88bd69dbf9:Forsaken Spectre Level 3
+28f1fc2f-453b-115a-6859-9d844c1a9fed:Forsaken Spectre Level 4
+5172ea04-432f-2bfb-2163-808ccc2442c3:Velocity Spectre
+dd595229-4aac-73f1-5fad-86891b7d7ecb:Infantry Spectre
+755d86a0-4b1c-5c8b-9238-e5be850ba001:Horizon Spectre
+d1d528ae-4dcc-e693-68e2-e8a475df83a4:Prime Spectre
+d5b3f1de-413c-3b6b-1101-128d408647bf:Prime Spectre Level 2
+3546dc11-40fe-0ca9-2989-cd80fc53eccc:Prime Spectre Level 3
+fefc628b-4078-c57b-dcc7-3591eca5c4d0:Prime Spectre Level 4
+5a0cd3b5-4249-bf6f-d009-17a81532660e:Avalanche Spectre
+481a5abb-45d7-818d-798f-d18d988b6dc1:Prism Spectre
+54ebea37-4cfe-a79b-707d-0d94017a69a6:Serenity Spectre
+87220abc-49a9-7472-ae09-29a6d711bbc3:Ruination Spectre
+93e1e10a-49f0-4a06-fe22-d48578f53c6e:Ruination Spectre Level 2
+e5aae6b1-482e-a508-f706-03a1eb087443:Ruination Spectre Level 3
+cf105b94-486b-0d11-e82d-df8f02575fb2:Ruination Spectre Level 4
+bd80c562-4c2d-f00a-156e-9190d023098e:Kingdom Spectre
+7d43477d-465a-67fc-561e-f2a2ebea697d:Luxe Spectre
+7e45e9cd-4072-cc32-0898-d09c167cc0f9:Magepunk Spectre
+9830e245-477f-15e5-8a49-7697358149cc:Magepunk Spectre Level 2
+83c62a9c-402a-517c-0249-d7961b21824f:Magepunk Spectre Level 3
+5f94f010-4581-ae04-c639-29af06e4b216:Magepunk Spectre Level 4
+f2ef87c7-4ff5-54f8-e038-cea4e54eefdd:Spline Spectre
+1fdbe6f8-42ca-deb2-33da-caa2c4200544:Minima Spectre
+6803ed34-46cc-ba84-9e58-f78f6538151e:Hue Shift Spectre
+cc3bb43a-4078-e7e6-5b43-3ba42fb9d7fb:Aero Spectre
+49de2762-4a72-6659-9139-0f96ae938649:POLYfrog Spectre
+5eb7515f-40a1-2f15-de03-c9a024664737:Protocol 781-A Spectre
+4b3bcb0e-4391-5c55-043f-408638d0ec46:Protocol 781-A Spectre Level 2
+216d2295-4331-ed1e-7349-2499d84a6e83:Protocol 781-A Spectre Level 3
+0b08de26-4b97-3540-54fd-3e8a91162cf8:Protocol 781-A Spectre Level 4
+f2339f96-4693-b27d-6e3c-5ba10cf3f6bf:Protocol 781-A Spectre Level 5 - Localized voice-over may differ in your region
+8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4:Gravitational Uranium Neuroblaster Spectre
+984fa47b-4c3f-cb2a-3fdb-098e342a52f3:Gravitational Uranium Neuroblaster Spectre Level 2
+613dd54a-4068-0fab-7670-bf8268a9b76b:Recon Spectre
+2006e869-4d76-294f-c0a1-b3b2f27a4dc2:Recon Spectre Level 2
+dce5c9c1-4a73-659c-1fb9-96974974b151:Recon Spectre Level 3
+5171a955-44db-5312-7d62-1398ef5c01cb:Recon Spectre Level 4
+52907a7c-4570-10d9-d2eb-8991bcfeb2ae:Infinity Spectre
+1dc45e18-4a07-c85f-0020-6da4db1486ce:Spectre
+e041ba88-452e-d907-1a83-f6b7631cd053:Tigris Spectre
+fbe265cf-4e3d-9891-791e-5089f1f7f102:Convex Spectre
+fdcb9cc0-4877-6f89-02ad-98ab330f3043:BlastX Spectre
+aa524ab2-4a87-81c1-2b07-ba8a5431ad0c:BlastX Spectre Level 2
+2ece0224-4527-7b27-a7e4-b3bf5cef9532:BlastX Spectre Level 3
+db5e997e-4c4f-baac-3e84-5fafe19c97f2:BlastX Spectre Level 4
+a83ac09d-4c19-fda6-8e4d-c1b77dc2b479:Wasteland Spectre
+4dbeebb2-4b39-8aec-b639-00bc4948d0f3:RGX 11z Pro Stinger
+d9b56b1b-42b7-10bf-caf6-d594861916a9:RGX 11z Pro Stinger Level 2
+0d146d58-43be-7cfc-d1f6-cb8441bf5c83:RGX 11z Pro Stinger Level 3
+6a538b3d-4a6c-933d-6b01-d0a20b8ab5bb:RGX 11z Pro Stinger Level 4
+7dd59c7b-4ca4-1638-4a10-cb998d6b84c8:RGX 11z Pro Stinger Level 5
+df37b069-48b2-0a7c-78ea-5b8eedc684f7:Aristocrat Stinger
+cd9beda3-4042-d79e-6d46-4daa61484362:Red Alert Stinger
+5611fa1c-45bb-6c46-73cd-209031e72524:Prelude to Chaos Stinger
+a8e8fc20-498e-b869-3858-d3802af9c4b8:Prelude to Chaos Stinger Level 2
+281add0f-4b05-aa0e-0d98-e491d72b0a1f:Prelude to Chaos Stinger Level 3
+9bbb7ff3-4681-f961-a880-819fa2fd813a:Prelude to Chaos Stinger Level 4
+0a6790a2-4ddf-56aa-26e4-44b45d050060:Doodle Buds Stinger
+082de448-49d3-d65d-e9c0-17949cd33422:Doodle Buds Stinger Level 2
+77d5c1dc-4dde-539c-3a5a-0a95eecba1e4:Surge Stinger
+2c6fa705-433a-5f9e-294b-b39eef964b8c:Shimmer Stinger
+50e072a5-4f30-63a9-6dee-a8b33781269f:.SYS Stinger
+b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6:Prism II Stinger
+84a414f6-4fe4-98ff-8d4e-b5866894c436:Couture Stinger
+d547c575-4572-9d77-42e5-bea022e5f07b:Silvanus Stinger
+fed9c3f3-40a5-da67-4ac9-4683cc5a0eba:Sensation Stinger
+e2c84381-4fa6-29b4-37b9-21bba8ae24bf:Sakura Stinger
+0329743b-4ce8-be9f-b531-f4aadc890287:Schema Stinger
+7ffbef55-4108-945e-6bc9-7b897f386d1b:Lycan's Bane Stinger
+9bc535dd-4d91-3421-2cd0-7a8fdad3478b:Sovereign Stinger
+1a8d4093-4e8f-dfe8-9412-e3955662f09c:Sovereign Stinger Level 2
+5e5fd361-4954-2287-012f-f68f624fc879:Sovereign Stinger Level 3
+b17c1df5-412c-a9bc-fd65-e6afb421b13d:Sovereign Stinger Level 4
+7b71fc11-4fa2-c84c-31ec-5eb5c3e3fff3:Cavalier Stinger
+471fc2a5-47a7-5b12-2895-0899117d2f57:Stinger
+6a1cd98a-4248-4b67-8ced-ac9c56fb4630:Depths Stinger
+ca2f7bc0-4270-7f76-4623-8596a5584d06:Ego Stinger
+d1e1f521-4c6b-a47d-6c02-f5a5de9dab48:Varnish Stinger
+a2a5860a-4a34-8510-e067-93abc9f18e12:Task Force 809 Knife
+a1762ed3-45bf-2dd5-776f-a18a33171e6f:RGX 11z Pro Blade
+d67af30b-4b2a-b1e6-3ac2-6aba74b885d4:RGX 11z Pro Blade Level 2
+424ed674-47dd-0488-de93-6cb8e13d0b90:RGX 11z Pro Firefly
+662449ea-4e5e-376a-6482-83b478355047:RGX 11z Pro Firefly Level 2
+8e9f610a-41ea-ff48-d102-c7a0e5614c84:Xenohunter Knife
+ba8b620a-4a51-8ed6-d1a7-cb9a4b3d99bd:Xenohunter Knife Level 2
+6e37a33a-416e-fcc0-ceb8-7784e18fbfe9:VALORANT GO! Vol. 1 Knife
+ec6b04b8-4cd4-5778-7aa9-269c029d8958:VALORANT GO! Vol. 1 Knife Level 2
+ec70c8c8-48db-b2dc-ab7d-1d9410b0cfbf:Yoru's Stylish Butterfly Comb
+da00cdf4-474d-960b-a011-f29d27403ff0:Yoru's Stylish Butterfly Comb Level 2
+85db497e-4b7d-dd9d-bc09-6d926158ed74:Neptune Anchor
+f7f58211-4a5c-b514-e933-acb5fb77e6b2:Neptune Anchor Level 2
+f353f65b-4764-cfc5-df01-8db85ab28199:Gaia's Wrath
+9d399e15-452f-1880-9cc1-c79b04c862fe:Gaia's Wrath Level 2
+f58e7da3-4567-707f-cb1e-3a9add422481:Waveform
+fe57fe97-4b0b-4a97-3050-2eb0a236f564:Waveform Level 2
+470e2855-4b86-f62d-258f-4588056a7b23:Champions 2021 Karambit
+5f991913-44c1-ba78-9547-5d8de87f04c2:Champions 2021 Karambit Level 2
+250ff684-42e9-108d-4722-a9a3ac8733e6:Champions 2021 Karambit Level 3 - Aura is active only when player has the most kills in the game
+5f059d7e-413c-445c-e36f-9a9791fba5b0:Origin Crescent Blade
+2bca8df3-4e1f-bdd4-9a33-8bbc51c2cfb7:Origin Crescent Blade Level 2
+21d49b4a-49ce-79f9-4e08-67959f8d17b5:Striker Knife
+30de237a-4fb3-90f5-3630-65be64d01423:Radiant Crisis 001 Baseball Bat
+11a7dfd4-4fc9-a806-6b20-fda57c1aa331:Radiant Crisis 001 Baseball Bat Level 2
+88d7c503-477f-c881-af2c-53bbab55807c:Nebula Knife
+4875e120-4d7d-aa2a-71c5-c0851c4af00d:Hack
+bde59d0e-4ddc-aa88-5c37-50a84673e0ed:Hack & Slash
+48ce4a70-4207-623b-4739-bfb937812432:Glitchpop Dagger
+29bd8b5b-4d19-b6af-70c3-4797c0482e1c:Glitchpop Dagger Level 2
+f27623a6-40de-20b9-17b5-c5bed27453a7:Glitchpop Axe
+3d6a7e42-4f6b-ee22-fa38-6cb370c93943:Glitchpop Axe Level 2
+d6b75f1b-409b-bae9-d378-d3adf04a3ca9:Blade of Chaos
+02f5a8ee-4f2f-cc11-f59c-a0bf0c488ee6:Blade of Chaos Level 2
+f3594bcc-43a9-4a74-8c40-98a4e4a4569a:Elderflame Dagger
+ef028ac5-40a2-bc8e-582b-c4abf4ed0ef3:Elderflame Dagger Level 2
+ea441610-42da-e46f-8d7b-1b9759c105cd:Singularity Knife
+34cdb942-4829-edbf-63ce-bfb3d993bdd1:Singularity Knife Level 2
+ed0080a9-4d77-d279-5a5c-f2bdb630307d:Blade of Serket
+a58b52ec-454d-1222-289b-6398e704c18f:Blade of Serket Level 2
+e701b267-43bb-7862-cebb-9695590b68ac:Songsteel
+1dc43c70-4dec-a8e6-e9fa-cda0033cc041:Hivemind Sword
+5fecfd43-4bec-4e6a-842c-84860853df82:Forsaken Ritual Blade
+a4d6c040-49cb-bb04-b9c1-879d0037132c:Forsaken Ritual Blade Level 2
+c01062ab-48ed-11a2-46bb-dba096daca59:Velocity Karambit
+726b77c9-41c3-80c6-f33e-068b9f74ef56:Ruin Dagger
+9d9ec56d-4973-3531-64f5-6d8eb2beb0a2:.SYS Melee
+249b0e46-4a11-f045-51bb-649151cd802a:Prime Axe
+df1ace24-4acb-e615-24eb-6e95b7e44dc5:Prime Axe Level 2
+167481de-4732-b44a-06ad-938625015abe:Prime//2.0 Karambit
+a3c2dd26-4705-8e42-cce1-6bae0236ac7a:Prime//2.0 Karambit Level 2
+3a1ec58c-4380-0622-7fde-c1936519fcf2:Outpost Melee
+7cf3af0b-4556-a0db-2e04-eea4368b354b:Prism Knife
+56f387f3-4b88-46b0-ee0d-249145f05d26:Prism III Axe
+e94012b1-4a22-63d2-117e-90a2c1375ded:Broken Blade of the Ruined King
+d0b5fbd7-43ef-d2bc-80ca-66b23c7a1d47:Blade of the Ruined King
+8c2e0f93-4277-fbb8-20c6-e2b2638b6ed4:Kingdom Knife
+a17e9fcc-4081-9b5a-cf63-fca395e652df:K/TAC Blade
+b6768f01-4d72-f0f1-65b5-71b751536490:Smite Knife
+dc5e3cfc-466a-4819-e93b-2ba5f1847915:Catrina
+7302d465-46cd-2a43-655f-93aee59030db:Celestial Fan
+ee4add11-4b78-250e-742a-fcbeca66ab05:Celestial Fan Level 2
+e57317ac-4a93-50a9-30e9-93a098513fa9:Luxe Knife
+c1326ee3-47af-d823-6686-618e1bcdf0c6:Magepunk Electroblade
+aec017e4-4500-acbf-56a5-b58ba2028e53:Magepunk Electroblade Level 2
+c5ec6a47-40c2-66ed-d546-5bad1eef6fd5:Magepunk Shock Gauntlet
+4379ef43-451a-a1eb-7c69-919abaff068b:Magepunk Shock Gauntlet Level 2
+d6e93360-46a2-0103-afa0-8b91e78b6fe8:Spline Dagger
+a080b538-4593-b092-d29c-04b80e6e983f:Genesis Arc
+21ceb4b1-480f-dddb-1422-8aad73519181:Ion Energy Sword
+24a079a6-4194-0008-bd1c-a980889bb912:Ion Energy Sword Level 2
+e34039b6-441d-3e17-2773-bdaf5c3d2faa:Oni Claw
+444af7a1-46d4-6139-a4b4-66b3112bd37b:Oni Claw Level 2
+704a71ab-4b0e-6e03-466e-5b9ca9d987fd:Artisan Foil
+47897cd1-49e2-da3f-4a8f-b6a1e84b0dd0:Personal Administrative Melee Unit
+ba14e527-4dd2-6b91-69a7-03a3395665f8:Personal Administrative Melee Unit Level 2
+692e49fb-4a3e-6991-8e58-838498758939:Personal Administrative Melee Unit Level 3 - Localized voice-over may differ in your region
+3710f62c-4e0c-65fd-848d-8da25d2fb833:Gravitational Uranium Neuroblaster Baton
+7ef7ed92-463e-2e0c-859f-b88de57f2fb4:Gravitational Uranium Neuroblaster Baton Level 2
+155ba654-4afa-1029-9e71-e0b6962d5410:Snowfall Wand
+315e8e49-4dc4-9769-2382-3ba5f7af87da:Relic of the Sentinel
+19a14e33-4597-412e-ed84-489113968a58:
+d7a02a43-47a5-556c-a69f-ec9cf6ede66d:Reaver Knife
+20f6764c-4561-0152-e8a1-e2a75deb1872:Reaver Knife Level 2
+90fe45d6-41ea-1c49-8fb9-46b0e98c0077:Sovereign Sword
+5e7f5d27-46ca-abd5-72d8-ecbb413ec217:Sovereign Sword Level 2
+12dce8f5-42fe-87c6-ef37-8aa4e55f1f64:Prosperity
+5593f2d7-43ce-9c78-16ad-ab9d9330a459:Prosperity & Demise
+e85cf8b6-467b-bc6c-9013-959383f71b2e:Recon Balisong
+6e6f577b-4a04-07d2-47f3-ec8cd4a684da:Recon Balisong Level 2
+4745ba48-4d62-b01c-9cb9-48848fec9b66:Titanmail Mace
+9acc22e7-4457-f294-0861-6bbeecb46316:Titanmail Mace Level 2
+854938f3-4532-b300-d9a2-379d987d7469:Standard Melee
+d3a228df-4eb5-09c4-0e32-93b50c9ec842:Hu Else
+5bf17117-4ead-a0a8-2961-288d38985e93:Ego Knife
+708abbc6-4579-4452-4293-07ba45e78979:BlastX Polymer KnifeTech Coated Knife
+fb180f74-460b-2a63-f3f3-0c9262c73c29:BlastX Polymer KnifeTech Coated Knife Level 2
+b577585f-4171-19a1-2899-848460de8089:Winterwunderland Candy Cane
